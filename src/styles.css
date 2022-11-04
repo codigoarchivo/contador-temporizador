@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: cadetblue;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px 15px;
+}
+.time__list {
+  color: white;
+  border: solid 1px;
+  padding: 1rem;
+}
